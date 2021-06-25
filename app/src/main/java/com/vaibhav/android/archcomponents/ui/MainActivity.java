@@ -1,8 +1,10 @@
-package com.vaibhav.android.archcomponents;
+package com.vaibhav.android.archcomponents.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.vaibhav.android.archcomponents.R;
 
 public class MainActivity extends AppCompatActivity {
 
